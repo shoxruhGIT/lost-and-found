@@ -1,5 +1,3 @@
-import React from "react";
-
 export const NotFound = () => {
   return (
     <div className="text-center py-12">
